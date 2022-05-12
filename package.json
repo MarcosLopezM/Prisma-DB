@@ -1,0 +1,19 @@
+{
+  "name": "prismadb",
+  "version": "1.0.0",
+  "description": "Express + DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosLopezM/Prisma-DB.git"
+  },
+  "author": "MarcosLopezM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosLopezM/Prisma-DB/issues"
+  },
+  "homepage": "https://github.com/MarcosLopezM/Prisma-DB#readme"
+}
